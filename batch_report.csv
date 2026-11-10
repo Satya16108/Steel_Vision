@@ -1,6 +1,0 @@
-file,class,confidence,severity,disposition,n_detections,n_masks,defect_area_pct,product,standard
-hot_gouge_6.jpg,patches,0.5794,Moderate,REVIEW,0,1,71.86,HR Strip · Hot-rolled Sheet,IS 10748:2004
-images.jpg,scratches,0.8846,Minor,PASS,2,2,63.07,All flat & long products,IS 2062:2011
-streaks3.PNG.png,patches,0.6082,Moderate,REVIEW,1,1,61.54,HR Strip · Hot-rolled Sheet,IS 10748:2004
-hot_mill_rolled_in_scale_7.jpg,scratches,0.9166,Minor,PASS,1,1,14.64,All flat & long products,IS 2062:2011
-cold_gouge_8.f77c79baa45eb17c7955f944dca3dfb1.jpg,scratches,0.9186,Minor,PASS,1,1,143.74,All flat & long products,IS 2062:2011
